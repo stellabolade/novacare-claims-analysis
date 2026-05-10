@@ -1,6 +1,9 @@
 # 🏥 NovaCare Health Insurance — Claims Denial & Revenue Integrity Analysis
 
-**Author - Stella Obase
+**Stella Omobolade Obase** — Team Lead | Dataverse Africa Internship Cohort 4.0 (Team 3)
+
+Responsible for coordinating team deliverables,directing the analytical approach, and presenting final outputs to the coordinators.
+
 April 2026**
 
 ---
@@ -153,10 +156,5 @@ $2.46 million is still recoverable today. These claims are filed and reviewed �
 - Healthcare domain knowledge (ICD-10 codes, CPT codes, claims workflows, denial management)
 
 ---
-
-## 👩‍💻 About
-
-**Stella Obase — Dataverse Africa Internship**
-Data Analyst Interns | April 2026
 
 *Project focus: Transforming raw insurance claims data into executive-ready revenue intelligence.*
